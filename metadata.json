@@ -1,0 +1,6 @@
+{
+  "name": "OfferTrail - Recruiter Response & Disclosed Terms Tracker",
+  "description": "Minimalist monochrome tracker for recruiter replies across LinkedIn, WhatsApp, and Gmail. Keeps track of claimed last working days, quoted notice periods, and expected salary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
